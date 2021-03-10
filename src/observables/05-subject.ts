@@ -25,8 +25,8 @@ const intervalo = new Observable(subs => {
 
 /**
  * Subject : 
- * 1 - casteo multuple
- * 2 - tambien es un observr
+ * 1 - casteo multiple
+ * 2 - tambien es un observer
  * 3 - Next, error , complete
  */
 
